@@ -1,0 +1,4 @@
+
+
+def insertsort(list):
+    pass

@@ -1,0 +1,4 @@
+
+
+def selectsort(list):
+    pass
