@@ -62,4 +62,5 @@ while phase_two:
                 selectsort(list_to_convert)
     except ValueError:
         print("[!] Please select a valid option.")
+    quit()
 
